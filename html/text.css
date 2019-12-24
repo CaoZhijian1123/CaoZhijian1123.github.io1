@@ -1,0 +1,11 @@
+@charset "utf-8";
+.textFont {
+	font-family: "隶书", "楷体", "微软雅黑", "华文行楷";
+	font-style: normal;
+	color: #000000;
+	font-size: 25px;
+	text-align: left;
+	margin: 5px;
+	text-decoration: none;
+	line-height: 31px;
+}

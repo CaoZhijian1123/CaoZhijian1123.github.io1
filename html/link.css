@@ -1,0 +1,11 @@
+@charset "utf-8";
+a:link {
+	color: #2438D0;
+	text-decoration: none;
+}
+a:hover {
+	color: #FD0105;
+}
+a:visited {
+	color: #2438D0;
+}
